@@ -167,8 +167,8 @@
       ],
       "references": [],
       "path": "data/route_capacity.csv",
-      "row_count": 348,
-      "sha256": "00a0f68bcc4ce8350111e9e744621d89dd39b0ac2c114e9713fcf0bac2a0e878"
+      "row_count": 468,
+      "sha256": "9b80753cfc243b45f4f03f18781d4f75c167b705ec3e5fb8d03153dafcc7df85"
     },
     {
       "name": "coop_routes",
@@ -236,7 +236,7 @@
       "references": [],
       "path": "data/storage.csv",
       "row_count": 8,
-      "sha256": "08ee0169b5b555c7058b06aaa1591aa551eeb14bd86bb342d219bc455b161367"
+      "sha256": "998c673dd36ac61697f23fca4037c482d707c2058ab5c700b2fc3a2e5ba6268c"
     },
     {
       "name": "contracts",
@@ -302,8 +302,8 @@
       ],
       "references": [],
       "path": "data/contracts.csv",
-      "row_count": 48,
-      "sha256": "8ebcc87e57c9e7545b3846960658bc8533c6e14a32df0f64aeabe67a2d4bbf9e"
+      "row_count": 208,
+      "sha256": "abda9ff3896a0494285f188e771b1e5973fdd5963c202260bd8b3363cf30c890"
     },
     {
       "name": "demand",
@@ -339,8 +339,8 @@
       ],
       "references": [],
       "path": "data/demand.csv",
-      "row_count": 12,
-      "sha256": "13aafe7fc308994d3a17847f1aa959131e8ef292f7b5df5fd55c5a987da19cd6"
+      "row_count": 52,
+      "sha256": "e7c2a432e2fc10e0ea53d9c7fa0da2f27f891cb34f27d56ced7062654683c97c"
     },
     {
       "name": "new_information",
