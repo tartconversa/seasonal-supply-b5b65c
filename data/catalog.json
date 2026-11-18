@@ -125,7 +125,7 @@
       ],
       "path": "data/weekly.csv",
       "row_count": 832,
-      "sha256": "ae36c6bcbff2c5c8c2b628c26555858440a8f08a2d3aecfc0f085680e1aa2848"
+      "sha256": "0b9ce17a9407175372bdae666e4b3609560dc2adb5241855fe23f08a67e10339"
     },
     {
       "name": "route_capacity",
