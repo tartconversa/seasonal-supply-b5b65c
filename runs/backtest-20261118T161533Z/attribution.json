@@ -1,0 +1,9 @@
+{
+  "actual_total_shortfall_mj": 0.0,
+  "quantity_effect_mj": 0.0,
+  "quality_effect_mj": 0.0,
+  "correlated_outage_effect_mj": 0.0,
+  "actual_total_heat_mj": 0.0,
+  "expected_quality_total_heat_mj": 0.0,
+  "no_outage_total_heat_mj": 0.0
+}

@@ -1,0 +1,31 @@
+{
+  "run_name": "assess-base",
+  "created_at": "20261118T160122Z",
+  "python": "3.11.2",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.36",
+  "input_fingerprint": {
+    "sources": "057c631cf7d8a746183b0f3d96ba8244ecfc1e48d6ad09ee7d0562d2ce815cb9",
+    "weekly": "55a7af8115d98f43b2b96db16e4e5da021395fa26b6ee64e62a47a17cc37f62b",
+    "route_capacity": "9fce4486b9e5a3b7c1e9acc93999734215bb290392f4248f5ade6cc675e2b4ad",
+    "coop_routes": "3cab4f8984102e171f2d0e990bee7791a0aff2d527909c9fea06afdffa09076b",
+    "storage": "0a1e203f9c3a55c61a4df79cf8c778146d30653785c3de1b4de419e655d943d6",
+    "contracts": "86105105248ac155abfc6754a4dd1448e1890a1f911e3f3d26f84946f871e86a",
+    "demand": "94133844d351140f4c0d6807aef4bcdd8c78f63f3ed7883a0fa0ad1d24ce6c69",
+    "new_information": "29487239c6eef618fbe30fa042f43acc34461f1f81c6cc8db6f75eaf5d85aa7b",
+    "opening_stock": "d662a8680f7adc664509f999df142f2008be1dbb2308ff4dc06e9b8e391c23c2"
+  },
+  "params": {
+    "scenario": "base",
+    "n_paths": 1000,
+    "seed": 20270104,
+    "include_proposals": true,
+    "as_of": "2026-12-28T08:00:00+08:00",
+    "first_week": 104,
+    "last_week": 155,
+    "initial_weather": "dry"
+  },
+  "artifacts": [
+    "report.json",
+    "calibration.json"
+  ]
+}

@@ -1,0 +1,6258 @@
+{
+  "scenario_count": 500,
+  "weeks": [
+    {
+      "week": 104,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 950000.0,
+      "p05_heat_mj": 950000.0,
+      "p50_heat_mj": 950000.0,
+      "p95_heat_mj": 950000.0000000001,
+      "shortfall_prob": 0.0,
+      "risk_limit": 0.08,
+      "within_limit": true,
+      "mean_shortfall_mj": 0.0,
+      "cvar05_shortfall_mj": 0.0,
+      "mean_closing_stock_t": 136.51022225193353,
+      "rain_prob": 0.192
+    },
+    {
+      "week": 105,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 1012188.4486297282,
+      "p05_heat_mj": 897736.1548005425,
+      "p50_heat_mj": 1030000.0,
+      "p95_heat_mj": 1030000.0000000001,
+      "shortfall_prob": 0.15,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 17811.551370271787,
+      "cvar05_shortfall_mj": 193678.80224589817,
+      "mean_closing_stock_t": 59.15562994514768,
+      "rain_prob": 0.196
+    },
+    {
+      "week": 106,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 809401.0531405358,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 987341.5425739114,
+      "p95_heat_mj": 1080070.5075685543,
+      "shortfall_prob": 0.99,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 300598.94685946417,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.009208845446724638,
+      "rain_prob": 0.24
+    },
+    {
+      "week": 107,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 125.13170013588459,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 949874.868299864,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.206
+    },
+    {
+      "week": 108,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.22
+    },
+    {
+      "week": 109,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.23
+    },
+    {
+      "week": 110,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.21
+    },
+    {
+      "week": 111,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.228
+    },
+    {
+      "week": 112,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 1097437.6905015034,
+      "p05_heat_mj": 1000863.4773641835,
+      "p50_heat_mj": 1110000.0,
+      "p95_heat_mj": 1110000.0000000002,
+      "shortfall_prob": 0.136,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 12562.309498496556,
+      "cvar05_shortfall_mj": 151962.4626178526,
+      "mean_closing_stock_t": 58.8885348696259,
+      "rain_prob": 0.248
+    },
+    {
+      "week": 113,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 721859.2032791119,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 950000.0,
+      "p95_heat_mj": 950000.0000000001,
+      "shortfall_prob": 0.264,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 228140.7967208882,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 6.1546132337363995,
+      "rain_prob": 0.248
+    },
+    {
+      "week": 114,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 84823.18203928048,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 90285.5829710948,
+      "p95_heat_mj": 185690.16713670714,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 945176.8179607196,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.226
+    },
+    {
+      "week": 115,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.218
+    },
+    {
+      "week": 116,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.182
+    },
+    {
+      "week": 117,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.194
+    },
+    {
+      "week": 118,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.244
+    },
+    {
+      "week": 119,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.264
+    },
+    {
+      "week": 120,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 1024294.1963105835,
+      "p05_heat_mj": 979982.978929914,
+      "p50_heat_mj": 1030000.0,
+      "p95_heat_mj": 1030000.0000000001,
+      "shortfall_prob": 0.086,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 5705.803689416593,
+      "cvar05_shortfall_mj": 97846.65103064831,
+      "mean_closing_stock_t": 65.22938143783571,
+      "rain_prob": 0.23
+    },
+    {
+      "week": 121,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 860482.5776055008,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 1109999.9999999998,
+      "p95_heat_mj": 1110000.0,
+      "shortfall_prob": 0.466,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 249517.42239449924,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 2.259160639336459,
+      "rain_prob": 0.206
+    },
+    {
+      "week": 122,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 31165.601138725266,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 6954.34564618506,
+      "p95_heat_mj": 114836.13220987146,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 918834.3988612747,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.242
+    },
+    {
+      "week": 123,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.224
+    },
+    {
+      "week": 124,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.252
+    },
+    {
+      "week": 125,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.27
+    },
+    {
+      "week": 126,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.246
+    },
+    {
+      "week": 127,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.212
+    },
+    {
+      "week": 128,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.218
+    },
+    {
+      "week": 129,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.21
+    },
+    {
+      "week": 130,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.248
+    },
+    {
+      "week": 131,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.224
+    },
+    {
+      "week": 132,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.22
+    },
+    {
+      "week": 133,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.208
+    },
+    {
+      "week": 134,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.212
+    },
+    {
+      "week": 135,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.242
+    },
+    {
+      "week": 136,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.188
+    },
+    {
+      "week": 137,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.254
+    },
+    {
+      "week": 138,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.222
+    },
+    {
+      "week": 139,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.212
+    },
+    {
+      "week": 140,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.22
+    },
+    {
+      "week": 141,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.218
+    },
+    {
+      "week": 142,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.216
+    },
+    {
+      "week": 143,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 949628.0921982387,
+      "p05_heat_mj": 949999.9999999999,
+      "p50_heat_mj": 950000.0,
+      "p95_heat_mj": 950000.0000000001,
+      "shortfall_prob": 0.01,
+      "risk_limit": 0.08,
+      "within_limit": true,
+      "mean_shortfall_mj": 371.9078017612246,
+      "cvar05_shortfall_mj": 7438.156035224288,
+      "mean_closing_stock_t": 73.37583057812188,
+      "rain_prob": 0.2
+    },
+    {
+      "week": 144,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 850968.4330016047,
+      "p05_heat_mj": 67233.96178680407,
+      "p50_heat_mj": 1030000.0,
+      "p95_heat_mj": 1030000.0000000001,
+      "shortfall_prob": 0.202,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 179031.56699839525,
+      "cvar05_shortfall_mj": 1005124.9945221284,
+      "mean_closing_stock_t": 10.839369835890468,
+      "rain_prob": 0.212
+    },
+    {
+      "week": 145,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 149273.649656883,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 171856.43970316488,
+      "p95_heat_mj": 264655.88430536934,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 960726.350343117,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.244
+    },
+    {
+      "week": 146,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.23
+    },
+    {
+      "week": 147,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.228
+    },
+    {
+      "week": 148,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.218
+    },
+    {
+      "week": 149,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.24
+    },
+    {
+      "week": 150,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1030000.0,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.242
+    },
+    {
+      "week": 151,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 1099921.510393082,
+      "p05_heat_mj": 1033065.4329274319,
+      "p50_heat_mj": 1110000.0,
+      "p95_heat_mj": 1110000.0,
+      "shortfall_prob": 0.13,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 10078.489606918134,
+      "cvar05_shortfall_mj": 144444.7598320205,
+      "mean_closing_stock_t": 60.67224485182218,
+      "rain_prob": 0.226
+    },
+    {
+      "week": 152,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 741809.3145229697,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 950000.0,
+      "p95_heat_mj": 950000.0000000001,
+      "shortfall_prob": 0.248,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 208190.68547703046,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 6.418206917728776,
+      "rain_prob": 0.22
+    },
+    {
+      "week": 153,
+      "demand_heat_mj": 1030000.0,
+      "mean_heat_mj": 88392.48592064877,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 90830.33159487556,
+      "p95_heat_mj": 196986.8969446932,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 941607.5140793512,
+      "cvar05_shortfall_mj": 1030000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.224
+    },
+    {
+      "week": 154,
+      "demand_heat_mj": 1110000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 1110000.0,
+      "cvar05_shortfall_mj": 1110000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.214
+    },
+    {
+      "week": 155,
+      "demand_heat_mj": 950000.0,
+      "mean_heat_mj": 0.0,
+      "p05_heat_mj": 0.0,
+      "p50_heat_mj": 0.0,
+      "p95_heat_mj": 0.0,
+      "shortfall_prob": 1.0,
+      "risk_limit": 0.08,
+      "within_limit": false,
+      "mean_shortfall_mj": 950000.0,
+      "cvar05_shortfall_mj": 950000.0,
+      "mean_closing_stock_t": 0.0,
+      "rain_prob": 0.182
+    }
+  ],
+  "shortage_intervals": [
+    {
+      "start_week": 153,
+      "end_week": 155,
+      "length_weeks": 3,
+      "occurrence_prob": 0.752,
+      "mean_total_shortfall_mj": 2972456.8006374356
+    },
+    {
+      "start_week": 106,
+      "end_week": 111,
+      "length_weeks": 6,
+      "occurrence_prob": 0.722,
+      "mean_total_shortfall_mj": 5226761.156981619
+    },
+    {
+      "start_week": 145,
+      "end_week": 150,
+      "length_weeks": 6,
+      "occurrence_prob": 0.692,
+      "mean_total_shortfall_mj": 5991982.745518092
+    },
+    {
+      "start_week": 114,
+      "end_week": 119,
+      "length_weeks": 6,
+      "occurrence_prob": 0.676,
+      "mean_total_shortfall_mj": 6064311.37502312
+    },
+    {
+      "start_week": 122,
+      "end_week": 142,
+      "length_weeks": 21,
+      "occurrence_prob": 0.53,
+      "mean_total_shortfall_mj": 21571585.976447273
+    },
+    {
+      "start_week": 121,
+      "end_week": 142,
+      "length_weeks": 22,
+      "occurrence_prob": 0.376,
+      "mean_total_shortfall_mj": 22039314.528007578
+    },
+    {
+      "start_week": 144,
+      "end_week": 150,
+      "length_weeks": 7,
+      "occurrence_prob": 0.168,
+      "mean_total_shortfall_mj": 7057775.646623574
+    },
+    {
+      "start_week": 105,
+      "end_week": 111,
+      "length_weeks": 7,
+      "occurrence_prob": 0.132,
+      "mean_total_shortfall_mj": 6299140.26606141
+    },
+    {
+      "start_week": 152,
+      "end_week": 155,
+      "length_weeks": 4,
+      "occurrence_prob": 0.118,
+      "mean_total_shortfall_mj": 3807717.6735341568
+    },
+    {
+      "start_week": 113,
+      "end_week": 119,
+      "length_weeks": 7,
+      "occurrence_prob": 0.114,
+      "mean_total_shortfall_mj": 6969144.253753141
+    },
+    {
+      "start_week": 106,
+      "end_week": 119,
+      "length_weeks": 14,
+      "occurrence_prob": 0.11,
+      "mean_total_shortfall_mj": 12471805.788136883
+    },
+    {
+      "start_week": 145,
+      "end_week": 155,
+      "length_weeks": 11,
+      "occurrence_prob": 0.106,
+      "mean_total_shortfall_mj": 10119011.565769512
+    },
+    {
+      "start_week": 114,
+      "end_week": 142,
+      "length_weeks": 29,
+      "occurrence_prob": 0.06,
+      "mean_total_shortfall_mj": 28875857.098840572
+    },
+    {
+      "start_week": 144,
+      "end_week": 155,
+      "length_weeks": 12,
+      "occurrence_prob": 0.024,
+      "mean_total_shortfall_mj": 11173450.518565923
+    },
+    {
+      "start_week": 105,
+      "end_week": 119,
+      "length_weeks": 15,
+      "occurrence_prob": 0.014,
+      "mean_total_shortfall_mj": 13526882.672383782
+    },
+    {
+      "start_week": 113,
+      "end_week": 142,
+      "length_weeks": 30,
+      "occurrence_prob": 0.014,
+      "mean_total_shortfall_mj": 29635395.067446645
+    },
+    {
+      "start_week": 107,
+      "end_week": 111,
+      "length_weeks": 5,
+      "occurrence_prob": 0.01,
+      "mean_total_shortfall_mj": 5057486.829986411
+    },
+    {
+      "start_week": 106,
+      "end_week": 142,
+      "length_weeks": 37,
+      "occurrence_prob": 0.006,
+      "mean_total_shortfall_mj": 35147895.09829835
+    },
+    {
+      "start_week": 105,
+      "end_week": 142,
+      "length_weeks": 38,
+      "occurrence_prob": 0.004,
+      "mean_total_shortfall_mj": 36442046.43157831
+    },
+    {
+      "start_week": 121,
+      "end_week": 150,
+      "length_weeks": 30,
+      "occurrence_prob": 0.004,
+      "mean_total_shortfall_mj": 28924405.546452537
+    },
+    {
+      "start_week": 122,
+      "end_week": 150,
+      "length_weeks": 29,
+      "occurrence_prob": 0.004,
+      "mean_total_shortfall_mj": 28816304.96581889
+    },
+    {
+      "start_week": 106,
+      "end_week": 150,
+      "length_weeks": 45,
+      "occurrence_prob": 0.002,
+      "mean_total_shortfall_mj": 42445885.42812875
+    }
+  ],
+  "conflicts": [
+    {
+      "week": 105,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 105,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 105,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 105,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 105,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 105,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 105,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 105,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 105,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 105,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 105,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 105,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 106,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 106,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 106,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 106,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 106,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 106,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 106,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 106,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 106,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 106,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 106,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 106,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 107,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 107,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 107,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 107,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 107,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 107,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 107,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 107,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 107,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 107,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 107,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 107,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 108,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 108,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 108,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 108,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 108,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 108,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 108,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 108,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 108,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 108,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 108,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 108,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 109,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 109,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 109,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 109,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 109,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 109,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 109,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 109,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 109,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 109,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 109,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 109,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 110,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 110,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 110,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 110,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 110,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 110,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 110,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 110,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 110,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 110,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 110,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 110,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 111,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 111,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 111,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 111,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 111,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 111,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 111,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 111,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 111,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 111,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 111,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 111,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 113,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 113,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 113,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 113,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 113,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 113,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 113,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 113,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 113,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 113,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 113,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 113,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 114,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 114,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 114,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 114,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 114,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 114,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 114,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 114,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 114,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 114,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 114,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 114,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 115,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 115,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 115,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 115,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 115,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 115,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 115,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 115,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 115,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 115,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 115,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 115,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 116,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 116,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 116,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 116,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 116,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 116,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 116,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 116,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 116,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 116,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 116,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 116,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 117,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 117,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 117,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 117,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 117,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 117,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 117,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 117,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 117,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 117,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 117,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 117,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 118,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 118,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 118,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 118,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 118,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 118,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 118,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 118,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 118,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 118,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 118,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 118,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 119,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 119,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 119,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 119,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 119,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 119,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 119,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 119,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 119,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 119,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 119,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 119,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 121,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 121,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 121,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 121,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 121,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 121,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 121,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 121,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 121,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 121,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 121,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 121,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 122,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 122,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 122,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 122,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 122,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 122,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 122,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 122,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 122,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 122,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 122,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 122,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 123,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 123,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 123,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 123,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 123,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 123,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 123,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 123,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 123,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 123,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 123,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 123,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 124,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 124,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 124,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 124,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 124,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 124,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 124,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 124,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 124,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 124,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 124,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 124,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 125,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 125,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 125,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 125,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 125,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 125,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 125,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 125,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 125,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 125,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 125,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 125,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 126,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 126,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 126,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 126,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 126,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 126,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 126,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 126,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 126,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 126,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 126,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 126,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 127,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 127,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 127,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 127,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 127,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 127,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 127,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 127,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 127,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 127,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 127,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 127,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 128,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 128,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 128,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 128,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 128,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 128,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 128,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 128,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 128,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 128,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 128,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 128,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 129,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 129,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 129,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 129,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 129,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 129,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 129,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 129,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 129,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 129,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 129,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 129,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 130,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 130,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 130,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 130,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 130,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 130,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 130,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 130,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 130,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 130,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 130,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 130,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 131,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 131,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 131,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 131,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 131,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 131,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 131,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 131,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 131,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 131,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 131,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 131,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 132,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 132,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 132,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 132,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 132,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 132,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 132,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 132,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 132,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 132,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 132,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 132,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 133,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 133,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 133,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 133,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 133,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 133,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 133,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 133,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 133,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 133,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 133,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 133,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 134,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 134,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 134,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 134,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 134,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 134,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 134,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 134,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 134,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 134,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 134,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 134,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 135,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 135,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 135,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 135,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 135,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 135,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 135,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 135,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 135,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 135,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 135,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 135,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 136,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 136,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 136,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 136,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 136,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 136,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 136,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 136,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 136,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 136,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 136,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 136,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 137,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 137,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 137,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 137,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 137,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 137,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 137,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 137,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 137,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 137,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 137,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 137,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 138,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 138,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 138,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 138,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 138,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 138,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 138,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 138,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 138,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 138,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 138,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 138,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 139,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 139,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 139,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 139,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 139,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 139,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 139,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 139,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 139,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 139,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 139,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 139,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 140,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 140,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 140,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 140,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 140,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 140,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 140,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 140,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 140,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 140,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 140,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 140,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 141,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 141,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 141,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 141,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 141,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 141,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 141,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 141,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 141,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 141,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 141,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 141,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 142,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 142,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 142,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 142,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 142,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 142,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 142,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 142,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 142,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 142,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 142,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 142,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 144,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 144,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 144,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 144,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 144,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 144,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 144,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 144,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 144,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 144,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 144,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 144,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 145,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 145,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 145,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 145,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 145,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 145,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 145,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 145,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 145,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 145,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 145,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 145,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 146,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 146,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 146,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 146,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 146,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 146,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 146,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 146,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 146,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 146,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 146,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 146,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 147,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 147,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 147,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 147,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 147,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 147,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 147,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 147,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 147,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 147,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 147,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 147,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 148,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 148,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 148,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 148,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 148,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 148,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 148,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 148,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 148,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 148,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 148,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 148,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 149,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 149,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 149,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 149,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 149,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 149,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 149,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 149,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 149,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 149,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 149,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 149,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 150,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 150,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 150,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 150,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 150,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 150,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 150,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 150,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 150,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 150,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 150,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 150,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 152,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 152,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 152,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 152,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 152,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 152,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 152,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 152,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 152,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 152,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 152,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 152,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 153,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 153,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 153,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 153,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 153,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 153,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 153,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 153,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 153,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 153,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 153,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 153,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 154,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 154,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 154,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 154,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 154,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 154,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 154,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 154,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 154,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 154,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 154,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 154,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 155,
+      "coop_id": "C1",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 155,
+      "coop_id": "C1",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 155,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 19.0,
+      "sample_detail": "保底到货不足，缺口 19.00t（采收或运输受限）"
+    },
+    {
+      "week": 155,
+      "coop_id": "C2",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 155,
+      "coop_id": "C2",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 155,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 20.0,
+      "sample_detail": "保底到货不足，缺口 20.00t（采收或运输受限）"
+    },
+    {
+      "week": 155,
+      "coop_id": "C3",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 155,
+      "coop_id": "C3",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 155,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 21.0,
+      "sample_detail": "保底到货不足，缺口 21.00t（采收或运输受限）"
+    },
+    {
+      "week": 155,
+      "coop_id": "C4",
+      "resource": "no_source",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "当周无满足采收月份与轮伐间隔的地块"
+    },
+    {
+      "week": 155,
+      "coop_id": "C4",
+      "resource": "rotation",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "合格地块已用尽或轮伐间隔限制"
+    },
+    {
+      "week": 155,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 500,
+      "prob": 1.0,
+      "mean_shortfall_t": 22.0,
+      "sample_detail": "保底到货不足，缺口 22.00t（采收或运输受限）"
+    },
+    {
+      "week": 120,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 40,
+      "prob": 0.08,
+      "mean_shortfall_t": 2.7535579927286262,
+      "sample_detail": "保底到货不足，缺口 5.76t（采收或运输受限）"
+    },
+    {
+      "week": 143,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 40,
+      "prob": 0.08,
+      "mean_shortfall_t": 2.6280369226473694,
+      "sample_detail": "保底到货不足，缺口 0.66t（采收或运输受限）"
+    },
+    {
+      "week": 120,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 39,
+      "prob": 0.078,
+      "mean_shortfall_t": 2.8802666538280475,
+      "sample_detail": "保底到货不足，缺口 0.39t（采收或运输受限）"
+    },
+    {
+      "week": 112,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 35,
+      "prob": 0.07,
+      "mean_shortfall_t": 2.8945989481229675,
+      "sample_detail": "保底到货不足，缺口 1.19t（采收或运输受限）"
+    },
+    {
+      "week": 112,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 34,
+      "prob": 0.068,
+      "mean_shortfall_t": 2.4041205004716955,
+      "sample_detail": "保底到货不足，缺口 3.14t（采收或运输受限）"
+    },
+    {
+      "week": 151,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 34,
+      "prob": 0.068,
+      "mean_shortfall_t": 1.984560778718626,
+      "sample_detail": "保底到货不足，缺口 1.13t（采收或运输受限）"
+    },
+    {
+      "week": 120,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 32,
+      "prob": 0.064,
+      "mean_shortfall_t": 2.169260274214694,
+      "sample_detail": "保底到货不足，缺口 3.14t（采收或运输受限）"
+    },
+    {
+      "week": 104,
+      "coop_id": "C4",
+      "resource": "route",
+      "occurrences": 30,
+      "prob": 0.06,
+      "mean_shortfall_t": 2.929044174812669,
+      "sample_detail": "保底到货不足，缺口 0.70t（采收或运输受限）"
+    },
+    {
+      "week": 151,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 30,
+      "prob": 0.06,
+      "mean_shortfall_t": 1.8205716148252489,
+      "sample_detail": "保底到货不足，缺口 1.00t（采收或运输受限）"
+    },
+    {
+      "week": 112,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 28,
+      "prob": 0.056,
+      "mean_shortfall_t": 2.479607050942975,
+      "sample_detail": "保底到货不足，缺口 1.79t（采收或运输受限）"
+    },
+    {
+      "week": 104,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 27,
+      "prob": 0.054,
+      "mean_shortfall_t": 2.6142566931577615,
+      "sample_detail": "保底到货不足，缺口 1.20t（采收或运输受限）"
+    },
+    {
+      "week": 151,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 26,
+      "prob": 0.052,
+      "mean_shortfall_t": 2.2633590156283137,
+      "sample_detail": "保底到货不足，缺口 1.63t（采收或运输受限）"
+    },
+    {
+      "week": 143,
+      "coop_id": "C3",
+      "resource": "route",
+      "occurrences": 25,
+      "prob": 0.05,
+      "mean_shortfall_t": 2.472343243213387,
+      "sample_detail": "保底到货不足，缺口 4.72t（采收或运输受限）"
+    },
+    {
+      "week": 151,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 22,
+      "prob": 0.044,
+      "mean_shortfall_t": 2.475599900145675,
+      "sample_detail": "保底到货不足，缺口 0.19t（采收或运输受限）"
+    },
+    {
+      "week": 104,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 20,
+      "prob": 0.04,
+      "mean_shortfall_t": 2.5502148024588833,
+      "sample_detail": "保底到货不足，缺口 3.41t（采收或运输受限）"
+    },
+    {
+      "week": 112,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 20,
+      "prob": 0.04,
+      "mean_shortfall_t": 2.2405169354953545,
+      "sample_detail": "保底到货不足，缺口 1.87t（采收或运输受限）"
+    },
+    {
+      "week": 104,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 18,
+      "prob": 0.036,
+      "mean_shortfall_t": 2.072565696593736,
+      "sample_detail": "保底到货不足，缺口 4.50t（采收或运输受限）"
+    },
+    {
+      "week": 120,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 18,
+      "prob": 0.036,
+      "mean_shortfall_t": 1.841890793265952,
+      "sample_detail": "保底到货不足，缺口 0.19t（采收或运输受限）"
+    },
+    {
+      "week": 143,
+      "coop_id": "C1",
+      "resource": "route",
+      "occurrences": 17,
+      "prob": 0.034,
+      "mean_shortfall_t": 1.945383917546799,
+      "sample_detail": "保底到货不足，缺口 0.83t（采收或运输受限）"
+    },
+    {
+      "week": 143,
+      "coop_id": "C2",
+      "resource": "route",
+      "occurrences": 13,
+      "prob": 0.026,
+      "mean_shortfall_t": 2.3263979532409453,
+      "sample_detail": "保底到货不足，缺口 0.83t（采收或运输受限）"
+    }
+  ],
+  "expected_emergency_cost": 2365452.6186478804,
+  "p95_emergency_cost": 2475132.083913125,
+  "expected_min_shortfall_t": 3856.669495436507,
+  "floor_spend": 1932840.0,
+  "expected_total_cost": 4298292.618647881,
+  "p95_total_cost": 4407972.083913125,
+  "any_breach_prob": 1.0,
+  "weeks_outside_limit": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155
+  ]
+}

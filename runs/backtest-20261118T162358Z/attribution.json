@@ -1,0 +1,11 @@
+{
+  "actual_total_shortfall_mj": 6553453.829271241,
+  "quantity_effect_mj": 2244596.8399199992,
+  "quality_effect_mj": 0.0,
+  "correlated_outage_effect_mj": 0.0,
+  "actual_produced_heat_mj": 24311578.302079998,
+  "full_actual_quality_heat_mj": 26556175.141999997,
+  "full_expected_quality_heat_mj": 26366763.761933234,
+  "full_no_outage_heat_mj": 26556175.141999997,
+  "outage_rejected_wet_t": 0.0
+}

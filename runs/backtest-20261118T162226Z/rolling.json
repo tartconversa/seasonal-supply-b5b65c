@@ -1,0 +1,23 @@
+[
+  {
+    "review_week": 104,
+    "as_of": "2027-01-04T08:00:00+08:00",
+    "window": [
+      105,
+      112
+    ],
+    "applied_notices": [],
+    "predicted_rain_share": 0.24,
+    "predicted_mean_shortfall_prob": 0.875,
+    "weeks_outside_limit": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "expected_emergency_cost": 213234.3916141511
+  }
+]
