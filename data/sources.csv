@@ -1,0 +1,9 @@
+source_id,coop_id,region,harvest_months,rotation_weeks,last_harvest_week,dry_mj_per_t
+P1,C1,north,1;2;3;4;10;11;12,8,-1,17070
+P2,C1,north,1;2;3;4;10;11;12,8,-2,17140
+P3,C2,north,1;2;3;4;10;11;12,8,-3,17210
+P4,C2,north,1;2;3;4;10;11;12,8,-4,17280
+P5,C3,south,1;2;3;4;10;11;12,8,-5,17350
+P6,C3,south,1;2;3;4;10;11;12,8,-6,17420
+P7,C4,south,1;2;3;4;10;11;12,8,-7,17490
+P8,C4,south,1;2;3;4;10;11;12,8,-8,17560

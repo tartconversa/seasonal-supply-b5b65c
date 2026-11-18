@@ -1,0 +1,444 @@
+{
+  "title": "季节性竹料供给的承诺可靠性分析",
+  "encoding": "UTF-8",
+  "delimiter": ",",
+  "missing": "",
+  "synthetic": true,
+  "tables": [
+    {
+      "name": "sources",
+      "description": "地块采收与合作社关系。",
+      "columns": [
+        {
+          "name": "source_id",
+          "type": "string",
+          "description": "来源地块",
+          "nullable": true
+        },
+        {
+          "name": "coop_id",
+          "type": "string",
+          "description": "合作社",
+          "nullable": true
+        },
+        {
+          "name": "region",
+          "type": "string",
+          "description": "共同天气区",
+          "nullable": true
+        },
+        {
+          "name": "harvest_months",
+          "type": "string",
+          "description": "允许月份分号分隔",
+          "nullable": true
+        },
+        {
+          "name": "rotation_weeks",
+          "type": "integer",
+          "description": "最小采收间隔",
+          "nullable": true
+        },
+        {
+          "name": "last_harvest_week",
+          "type": "integer",
+          "description": "最近采收周",
+          "nullable": true
+        },
+        {
+          "name": "dry_mj_per_t",
+          "type": "number",
+          "description": "干基热值",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "source_id"
+      ],
+      "references": [],
+      "path": "data/sources.csv",
+      "row_count": 8,
+      "sha256": "5c280018c31d77f393c582862cc9ea778486503f879aee18288513677f749ca8"
+    },
+    {
+      "name": "weekly",
+      "description": "两年的计划及执行观测。",
+      "columns": [
+        {
+          "name": "record_id",
+          "type": "string",
+          "description": "记录",
+          "nullable": true
+        },
+        {
+          "name": "week",
+          "type": "integer",
+          "description": "周",
+          "nullable": true
+        },
+        {
+          "name": "source_id",
+          "type": "string",
+          "description": "地块",
+          "nullable": true
+        },
+        {
+          "name": "planned_wet_t",
+          "type": "number",
+          "description": "计划湿吨",
+          "nullable": true
+        },
+        {
+          "name": "actual_wet_t",
+          "type": "number",
+          "description": "实际湿吨",
+          "nullable": true
+        },
+        {
+          "name": "moisture_pct",
+          "type": "number",
+          "description": "含水率",
+          "nullable": true
+        },
+        {
+          "name": "weather",
+          "type": "string",
+          "description": "区域天气",
+          "nullable": true
+        },
+        {
+          "name": "available_at",
+          "type": "datetime",
+          "description": "可知时刻",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "record_id"
+      ],
+      "references": [
+        {
+          "column": "source_id",
+          "target_table": "sources",
+          "target_column": "source_id"
+        }
+      ],
+      "path": "data/weekly.csv",
+      "row_count": 832,
+      "sha256": "ae36c6bcbff2c5c8c2b628c26555858440a8f08a2d3aecfc0f085680e1aa2848"
+    },
+    {
+      "name": "route_capacity",
+      "description": "按周的共享运输能力。",
+      "columns": [
+        {
+          "name": "record_id",
+          "type": "string",
+          "description": "记录",
+          "nullable": true
+        },
+        {
+          "name": "week",
+          "type": "integer",
+          "description": "周",
+          "nullable": true
+        },
+        {
+          "name": "route_id",
+          "type": "string",
+          "description": "通道",
+          "nullable": true
+        },
+        {
+          "name": "capacity_t",
+          "type": "number",
+          "description": "湿吨容量",
+          "nullable": true
+        },
+        {
+          "name": "available_at",
+          "type": "datetime",
+          "description": "可知时刻",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "record_id"
+      ],
+      "references": [],
+      "path": "data/route_capacity.csv",
+      "row_count": 348,
+      "sha256": "00a0f68bcc4ce8350111e9e744621d89dd39b0ac2c114e9713fcf0bac2a0e878"
+    },
+    {
+      "name": "coop_routes",
+      "description": "normal 与 backup 分别为正常和替补；同名通道共享容量。",
+      "columns": [
+        {
+          "name": "coop_id",
+          "type": "string",
+          "description": "合作社",
+          "nullable": true
+        },
+        {
+          "name": "normal",
+          "type": "string",
+          "description": "正常通道",
+          "nullable": true
+        },
+        {
+          "name": "backup",
+          "type": "string",
+          "description": "替补通道",
+          "nullable": true
+        },
+        {
+          "name": "processing_t",
+          "type": "number",
+          "description": "周加工能力",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "coop_id"
+      ],
+      "references": [],
+      "path": "data/coop_routes.csv",
+      "row_count": 4,
+      "sha256": "4c4b95e8c116d2f8970ed35e3311d7ab7b82de01cdb5738289c0fc00aa0f8b18"
+    },
+    {
+      "name": "storage",
+      "description": "损耗为该年龄周发生的质量损失比例，容量是所有年龄共同上限。",
+      "columns": [
+        {
+          "name": "age_week",
+          "type": "integer",
+          "description": "入库年龄周",
+          "nullable": true
+        },
+        {
+          "name": "loss_fraction",
+          "type": "number",
+          "description": "该周质量损失率",
+          "nullable": true
+        },
+        {
+          "name": "capacity_t",
+          "type": "number",
+          "description": "共同仓容",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "age_week"
+      ],
+      "references": [],
+      "path": "data/storage.csv",
+      "row_count": 8,
+      "sha256": "08ee0169b5b555c7058b06aaa1591aa551eeb14bd86bb342d219bc455b161367"
+    },
+    {
+      "name": "contracts",
+      "description": "面向未来12周的候选及已签承诺。scenario 同值构成一套方案。",
+      "columns": [
+        {
+          "name": "contract_id",
+          "type": "string",
+          "description": "合同",
+          "nullable": true
+        },
+        {
+          "name": "scenario",
+          "type": "string",
+          "description": "方案",
+          "nullable": true
+        },
+        {
+          "name": "coop_id",
+          "type": "string",
+          "description": "合作社",
+          "nullable": true
+        },
+        {
+          "name": "week",
+          "type": "integer",
+          "description": "交付周",
+          "nullable": true
+        },
+        {
+          "name": "min_t",
+          "type": "number",
+          "description": "保底湿吨",
+          "nullable": true
+        },
+        {
+          "name": "option_t",
+          "type": "number",
+          "description": "可选湿吨",
+          "nullable": true
+        },
+        {
+          "name": "confirmed_t",
+          "type": "number",
+          "description": "已履行量",
+          "nullable": true
+        },
+        {
+          "name": "price_yuan_t",
+          "type": "number",
+          "description": "每湿吨价格",
+          "nullable": true
+        },
+        {
+          "name": "status",
+          "type": "string",
+          "description": "signed或proposal",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "contract_id"
+      ],
+      "references": [],
+      "path": "data/contracts.csv",
+      "row_count": 48,
+      "sha256": "8ebcc87e57c9e7545b3846960658bc8533c6e14a32df0f64aeabe67a2d4bbf9e"
+    },
+    {
+      "name": "demand",
+      "description": "连续供汽热量需求与缺供风险界限。连续缺供为相邻周低于需求，emergency_cost 是每兆焦煤替补成本。",
+      "columns": [
+        {
+          "name": "week",
+          "type": "integer",
+          "description": "周",
+          "nullable": true
+        },
+        {
+          "name": "heat_mj",
+          "type": "number",
+          "description": "需求兆焦",
+          "nullable": true
+        },
+        {
+          "name": "risk_limit",
+          "type": "number",
+          "description": "可接受缺供概率",
+          "nullable": true
+        },
+        {
+          "name": "emergency_cost",
+          "type": "number",
+          "description": "应急单价",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "week"
+      ],
+      "references": [],
+      "path": "data/demand.csv",
+      "row_count": 12,
+      "sha256": "13aafe7fc308994d3a17847f1aa959131e8ef292f7b5df5fd55c5a987da19cd6"
+    },
+    {
+      "name": "new_information",
+      "description": "签约后更新，只影响可知时点以后的分析。",
+      "columns": [
+        {
+          "name": "notice_id",
+          "type": "string",
+          "description": "通知",
+          "nullable": true
+        },
+        {
+          "name": "week",
+          "type": "integer",
+          "description": "影响周",
+          "nullable": true
+        },
+        {
+          "name": "route_id",
+          "type": "string",
+          "description": "通道",
+          "nullable": true
+        },
+        {
+          "name": "capacity_t",
+          "type": "number",
+          "description": "新容量",
+          "nullable": true
+        },
+        {
+          "name": "available_at",
+          "type": "datetime",
+          "description": "可知时刻",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "notice_id"
+      ],
+      "references": [],
+      "path": "data/new_information.csv",
+      "row_count": 2,
+      "sha256": "c1c8bef051920d21b78dece2915992e4349a9849d2f8350746d531531c9dd10b"
+    },
+    {
+      "name": "opening_stock",
+      "description": "签约截止时真实在库原料，按原来源及年龄保留。",
+      "columns": [
+        {
+          "name": "stock_id",
+          "type": "string",
+          "description": "在库记录",
+          "nullable": true
+        },
+        {
+          "name": "source_id",
+          "type": "string",
+          "description": "来源",
+          "nullable": true
+        },
+        {
+          "name": "age_week",
+          "type": "integer",
+          "description": "入库年龄",
+          "nullable": true
+        },
+        {
+          "name": "wet_t",
+          "type": "number",
+          "description": "湿吨",
+          "nullable": true
+        },
+        {
+          "name": "moisture_pct",
+          "type": "number",
+          "description": "当前含水率",
+          "nullable": true
+        },
+        {
+          "name": "as_of",
+          "type": "datetime",
+          "description": "盘点时刻",
+          "nullable": true
+        }
+      ],
+      "key": [
+        "stock_id"
+      ],
+      "references": [
+        {
+          "column": "source_id",
+          "target_table": "sources",
+          "target_column": "source_id"
+        }
+      ],
+      "path": "data/opening_stock.csv",
+      "row_count": 2,
+      "sha256": "5d355f9651e78586e3cd3bd3ff1fa570699743bdaff1499254126671a00a7817"
+    }
+  ]
+}

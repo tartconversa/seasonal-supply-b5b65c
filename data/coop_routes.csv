@@ -1,0 +1,5 @@
+coop_id,normal,backup,processing_t
+C1,R1,BRIDGE,90
+C2,R2,BRIDGE,85
+C3,BRIDGE,R1,70
+C4,R2,R1,80

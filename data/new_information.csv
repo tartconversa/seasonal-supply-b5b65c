@@ -1,0 +1,3 @@
+notice_id,week,route_id,capacity_t,available_at
+NT1,106,BRIDGE,0,2027-01-05T08:00:00+08:00
+NT2,107,R2,55,2027-01-13T08:00:00+08:00
